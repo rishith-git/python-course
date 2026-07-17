@@ -1,0 +1,7 @@
+#Displaying the numbers in reverse order
+
+for i in range(10, 0, -1):
+    if i == 5:
+        continue
+    else:
+        print(i)
